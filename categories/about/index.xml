@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>about on BASSI Hassan</title>
+    <link>https://bassi.dev/categories/about/</link>
+    <description>Recent content in about on BASSI Hassan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
+    
+	<atom:link href="https://bassi.dev/categories/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://bassi.dev/about/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>https://bassi.dev/about/</guid>
+      <description>My name is Hassan BASSI, Software Engineer from Casablanca, Morocco with a degree in Computer Science. I work at @xHub as Full Stack Software Developer . My main focus is on JVM Ecosystem&amp;rsquo;s and Web Frontend , And also experimenting new architectures and clean code .
+I&amp;rsquo;m located in Casablanca . Don&amp;rsquo;t hesitate to contact me if you have any further questions or some projects to collaborate .</description>
+    </item>
+    
+  </channel>
+</rss>
